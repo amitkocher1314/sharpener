@@ -14,3 +14,5 @@ for(i=1;i<arr.length;i++){
     arr[j+1]=temp;
     console.log(arr);
 }
+
+this is insertion sort code
